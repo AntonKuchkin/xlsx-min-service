@@ -28,7 +28,7 @@ REST-сервис на Spring Boot, который считывает данны
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/...../xlsx-min-service.git
+git clone https://github.com/AntonKuchkin/xlsx-min-service
 cd xlsx-min-service
 
 # Сборка проекта
