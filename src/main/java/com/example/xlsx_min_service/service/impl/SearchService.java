@@ -162,6 +162,4 @@ public class SearchService implements SearchServiceApi {
         list.set(i, list.get(j));
         list.set(j, temp);
     }
-
-
 }
